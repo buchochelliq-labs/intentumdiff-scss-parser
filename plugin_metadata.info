@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.scss]
+language_name = Scss
+language_short_name = Scss
+monaco_language = scss
+default_filename = style.scss
+language_file_extensions = .scss
