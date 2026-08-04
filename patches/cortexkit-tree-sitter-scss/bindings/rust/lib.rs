@@ -1,5 +1,5 @@
 //! SCSS grammar bindings, modernized to the tree-sitter-language ABI for the
-//! IntentDiff wasi patch (the upstream bindings need a full tree-sitter dep;
+//! IntentumDiff wasi patch (the upstream bindings need a full tree-sitter dep;
 //! see docs/WASM_BUILD_PATCHES.md).
 
 use tree_sitter_language::LanguageFn;
